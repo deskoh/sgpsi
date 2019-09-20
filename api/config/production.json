@@ -1,0 +1,8 @@
+{
+  "host": "HOST",
+  "port": "PORT",
+  "authentication": {
+    "secret": "JWT_SECRET"
+  },
+  "postgres": "DATABASE_URL"
+}
