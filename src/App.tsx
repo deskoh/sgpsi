@@ -16,7 +16,7 @@ const App: React.FC = () => {
     };
     ReadingService.on('created', cb);
 
-    fetch('/reading/1')
+    fetch(`${process.env.REACT_APP_API_ENDPOINT}reading/1`)
       .then((response) => response.json())
       .then(({ data }) => {
         if (data[0]) {
