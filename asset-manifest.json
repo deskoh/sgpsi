@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/sgpsi/static/css/main.7a5c7545.chunk.css",
+    "main.css": "/sgpsi/static/css/main.53a70140.chunk.css",
     "main.js": "/sgpsi/static/js/main.eeecf7c9.chunk.js",
     "runtime-main.js": "/sgpsi/static/js/runtime-main.4d326e79.js",
     "static/js/2.e4faae60.chunk.js": "/sgpsi/static/js/2.e4faae60.chunk.js",
     "index.html": "/sgpsi/index.html",
-    "precache-manifest.1364b5177c0493af0fe3b57d5fc91773.js": "/sgpsi/precache-manifest.1364b5177c0493af0fe3b57d5fc91773.js",
+    "precache-manifest.348144704b9bf2703f46e0ab73ccae95.js": "/sgpsi/precache-manifest.348144704b9bf2703f46e0ab73ccae95.js",
     "service-worker.js": "/sgpsi/service-worker.js",
     "static/media/github.617870e4.svg": "/sgpsi/static/media/github.617870e4.svg"
   }
