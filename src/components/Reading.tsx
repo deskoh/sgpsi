@@ -14,7 +14,7 @@ const Reading: React.FC<ReadingProps> = ({ value = 0, updatedAt }) => {
         <code className="Reading-value">{value}</code>
       </p>
       <p className="Reading-footer">
-        {updatedAt && `Updated ${moment(updatedAt).fromNow()}`}
+        {updatedAt && `Updated ${moment(updatedAt).fromNow()} @ ${moment(updatedAt).format("h:mm:ss a")}`}
       </p>
     </>
   );

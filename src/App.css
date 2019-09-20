@@ -1,6 +1,10 @@
+html {
+  background: #282c34;
+}
+
 .App {
   min-height: 100vh;
-  background-color: #282c34;
+  min-height: -webkit-fill-available;
   display: flex;
   flex-direction: column;
   align-items: center;
