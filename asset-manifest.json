@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sgpsi/static/css/main.99944224.chunk.css",
+    "main.js": "/sgpsi/static/js/main.a026ed94.chunk.js",
+    "main.js.map": "/sgpsi/static/js/main.a026ed94.chunk.js.map",
+    "runtime-main.js": "/sgpsi/static/js/runtime-main.4d326e79.js",
+    "runtime-main.js.map": "/sgpsi/static/js/runtime-main.4d326e79.js.map",
+    "static/js/2.480b9093.chunk.js": "/sgpsi/static/js/2.480b9093.chunk.js",
+    "static/js/2.480b9093.chunk.js.map": "/sgpsi/static/js/2.480b9093.chunk.js.map",
+    "index.html": "/sgpsi/index.html",
+    "precache-manifest.d052d19d3188754c0f807f59828f8736.js": "/sgpsi/precache-manifest.d052d19d3188754c0f807f59828f8736.js",
+    "service-worker.js": "/sgpsi/service-worker.js",
+    "static/css/main.99944224.chunk.css.map": "/sgpsi/static/css/main.99944224.chunk.css.map",
+    "static/media/github.617870e4.svg": "/sgpsi/static/media/github.617870e4.svg"
+  }
+}
