@@ -20,7 +20,7 @@ export default {
 
   after: {
     all: [],
-    find: [discard('userId', 'id'), cacheAfter(15000)],
+    find: [discard('userId', 'id'), cacheAfter(30000)],
     get: [],
     create: [],
     update: [],
