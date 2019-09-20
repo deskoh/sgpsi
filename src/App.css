@@ -1,0 +1,44 @@
+.App {
+  min-height: 100vh;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.App-header {
+  flex-grow: 1;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-footer {
+  font-size: 12px;
+  text-align: center;
+  color: lightgrey;
+  padding: 10px;
+}
+
+.App-logo {
+  fill: currentColor;
+  vertical-align: bottom;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.App-link {
+  color: lightgrey;
+  text-decoration: none;
+}
+
+.Reading-value {
+  font-size: calc(64px + 2vmin);
+}
+
+.Reading-footer {
+  font-size: 12px;
+}
+
+
