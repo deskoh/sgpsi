@@ -15,7 +15,7 @@ declare module '../../declarations' {
 export default function (app: Application) {
   const Model = createModel(app);
   const paginate = {
-    default: 720,
+    default: 360,
     max: 720,
   };
 
