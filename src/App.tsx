@@ -34,6 +34,14 @@ const App: React.FC = () => {
       <header className="App-header">
         <Reading value={value} updatedAt={createdAt} />
       </header>
+      <div className="App-body">
+        <a
+          className="App-link"
+          href="https://data.heroku.com/dataclips/wkiropunkavnjbzdzafqfhibhzjh"
+        >
+          Historical Data / Chart
+        </a>
+      </div>
       <footer className="App-footer">
         <a
           className="App-link"

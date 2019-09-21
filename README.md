@@ -1,8 +1,15 @@
 # Realtime PM 2.5 Readings
+[![dependencies Status](https://img.shields.io/david/deskoh/sgpsi.svg?style=flat)](https://david-dm.org/deskoh/sgpsi)
+[![devDependencies Status](https://img.shields.io/david/dev/deskoh/sgpsi.svg?style=flat)](https://david-dm.org/deskoh/sgpsi?type=dev)
+
+[![dependencies Status](https://img.shields.io/david/deskoh/sgpsi.svg?path=api&style=flat)](https://david-dm.org/deskoh/sgpsi?path=api)
+[![devDependencies Status](https://img.shields.io/david/dev/deskoh/sgpsi.svg?path=api&style=flat)](https://david-dm.org/deskoh/sgpsi?path=api&type=dev)
 
 Realtime PM 2.5 readings somewhere in Singapore.
 
 [https://deskoh.github.io/sgpsi/](https://deskoh.github.io/sgpsi/)
+
+[Historical Data / Chart](https://data.heroku.com/dataclips/wkiropunkavnjbzdzafqfhibhzjh)
 
 ## Built With
 
