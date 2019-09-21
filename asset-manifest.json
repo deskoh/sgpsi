@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sgpsi/static/css/main.b79629e3.chunk.css",
-    "main.js": "/sgpsi/static/js/main.0393578e.chunk.js",
-    "runtime-main.js": "/sgpsi/static/js/runtime-main.4d326e79.js",
-    "static/js/2.4af442b0.chunk.js": "/sgpsi/static/js/2.4af442b0.chunk.js",
-    "index.html": "/sgpsi/index.html",
-    "precache-manifest.b3c795c2cbb62a1f2e76c5bbf079f93b.js": "/sgpsi/precache-manifest.b3c795c2cbb62a1f2e76c5bbf079f93b.js",
-    "service-worker.js": "/sgpsi/service-worker.js",
-    "static/media/github.617870e4.svg": "/sgpsi/static/media/github.617870e4.svg"
+    "main.css": "./static/css/main.b79629e3.chunk.css",
+    "main.js": "./static/js/main.d2d93da7.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.47edeb6c.js",
+    "static/js/2.755826b4.chunk.js": "./static/js/2.755826b4.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.dcdb25161aafc3452dd2397f596c9b45.js": "./precache-manifest.dcdb25161aafc3452dd2397f596c9b45.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/github.617870e4.svg": "./static/media/github.617870e4.svg"
   }
 }
